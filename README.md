@@ -1,2 +1,2 @@
 # Gesture_Volume_conrtrol
-Control the volume after hands detection
+After hands detection use it in application like: control the volume in real time
